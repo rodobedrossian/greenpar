@@ -1,0 +1,166 @@
+#title {
+  background-color: #28df99;
+  color: #fff;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.first-block {
+  padding-left: 4rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+  /* position: fixed; */
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Tittle image */
+.tittle-image {
+  width: 60%;
+  margin-left: 5rem;
+  padding-top: 0;
+  /* transform: rotate(25deg); */
+}
+
+/* Features */
+
+#features {
+  margin: 150px;
+}
+
+.features {
+  text-align: center;
+}
+
+.feature-box {
+  padding: 0 5%;
+}
+
+.fas {
+  margin-bottom: 1rem;
+  color: #99f3bd;
+}
+
+.fas:hover {
+  color: #28df99;
+}
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: #99f3bd;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press */
+
+#press {
+  text-align: center;
+  background-color: #99f3bd;
+}
+
+.press-image {
+  width: 20%;
+  padding: 1% 20px 5% 20px;
+}
+
+/* Articles / cards */
+
+.articles {
+  margin: 80px 20px;
+  text-align: center;
+  padding: 0 100px;
+}
+
+.card {
+  min-height: 100%;
+}
+
+.article-image {
+  width: 100%;
+}
+
+.card-header {
+  font-weight: bold;
+  min-height: 125px;
+  background-color: #99f3bd;
+}
+
+.card-footer {
+  background-color: white;
+  border-color: white;
+}
+
+.btn-article {
+  background-color: #28df99;
+  border-color: #28df99;
+}
+
+.btn:hover {
+  background-color: #99f3bd;
+  border-color: #99f3bd;
+
+}
