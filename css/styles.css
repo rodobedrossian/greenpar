@@ -38,6 +38,7 @@ p {
   padding: 3% 15%;
 }
 
+
 /* Navigation Bar */
 
 .navbar-brand {
@@ -68,16 +69,19 @@ p {
 
 /* Tittle image */
 .tittle-image {
-  width: 60%;
+  width: 65%;
   margin-left: 5rem;
   padding-top: 0;
-  /* transform: rotate(25deg); */
+  transform: rotate(15deg);
+  position: absolute;
 }
+
 
 /* Features */
 
 #features {
   margin: 150px;
+  position: relative;
 }
 
 .features {
